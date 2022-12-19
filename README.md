@@ -1,5 +1,5 @@
 - Max 🤟🏻 
-- Intrested in DS 📈 and Web Dev 🌐 
+- Interested in DS 📈 and Web Dev 🌐 
 
 <!---
 maximvscow/maximvscow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
